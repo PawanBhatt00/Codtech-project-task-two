@@ -19,15 +19,12 @@ JavaScript: Functionality and dynamic content.
 
 
 #Demo
-You can see a live demo of the website [here](insert link to live demo if available).
+You can see a live demo of the website [https://pawanbhatt00.github.io/Codtech-project-task-two/](insert link to live demo if available).
 
 
 #Installation
 To run this project locally:
 
-
-#Clone the repository: git clone https://github.com/your-username/your-repository.git
-Open index.html in your web browser.
 
 
 #Usage
